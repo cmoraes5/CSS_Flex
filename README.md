@@ -3,4 +3,4 @@ Training CSS Flex
 
 
 Acesse:
-csssflext.netlify.app 
+csssflext.netlify.app.com
