@@ -3,4 +3,4 @@ Training CSS Flex
 
 
 Acesse:
-csssflext.netlify.app.com
+https://cmoraes5.github.io/CSS_Flex/
